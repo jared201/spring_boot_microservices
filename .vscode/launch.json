@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-DemoApplication<my_api>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.hueburg.api.demo.my_api.DemoApplication",
+            "projectName": "my_api",
+            "args": ""
+        }
+    ]
+}
